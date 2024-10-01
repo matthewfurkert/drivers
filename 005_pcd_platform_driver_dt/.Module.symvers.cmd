@@ -1,0 +1,1 @@
+cmd_/home/furky/workspace/ldd/custom_drivers/005_pcd_platform_driver_dt/Module.symvers := sed 's/ko$$/o/' /home/furky/workspace/ldd/custom_drivers/005_pcd_platform_driver_dt/modules.order | scripts/mod/modpost -m    -o /home/furky/workspace/ldd/custom_drivers/005_pcd_platform_driver_dt/Module.symvers -e -i Module.symvers   -T -

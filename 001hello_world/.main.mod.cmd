@@ -1,0 +1,1 @@
+cmd_/home/furky/workspace/ldd/custom_drivers/001hello_world/main.mod := { echo  /home/furky/workspace/ldd/custom_drivers/001hello_world/main.o;  echo; } > /home/furky/workspace/ldd/custom_drivers/001hello_world/main.mod

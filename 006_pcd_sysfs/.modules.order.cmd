@@ -1,0 +1,1 @@
+cmd_/home/furky/workspace/ldd/custom_drivers/006_pcd_sysfs/modules.order := {   echo /home/furky/workspace/ldd/custom_drivers/006_pcd_sysfs/pcd_sysfs.ko; :; } | awk '!x[$$0]++' - > /home/furky/workspace/ldd/custom_drivers/006_pcd_sysfs/modules.order

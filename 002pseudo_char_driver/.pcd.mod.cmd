@@ -1,0 +1,1 @@
+cmd_/home/furky/workspace/ldd/custom_drivers/002pseudo_char_driver/pcd.mod := { echo  /home/furky/workspace/ldd/custom_drivers/002pseudo_char_driver/pcd.o;  echo; } > /home/furky/workspace/ldd/custom_drivers/002pseudo_char_driver/pcd.mod

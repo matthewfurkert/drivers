@@ -1,0 +1,1 @@
+cmd_/home/furky/workspace/ldd/custom_drivers/005_pcd_platform_driver_dt/pcd_platform_driver_dt.mod := { echo  /home/furky/workspace/ldd/custom_drivers/005_pcd_platform_driver_dt/pcd_platform_driver_dt.o;  echo; } > /home/furky/workspace/ldd/custom_drivers/005_pcd_platform_driver_dt/pcd_platform_driver_dt.mod

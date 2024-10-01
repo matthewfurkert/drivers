@@ -1,0 +1,1 @@
+cmd_/home/furky/workspace/ldd/custom_drivers/007_gpio_sysfs/gpio-sysfs.mod := { echo  /home/furky/workspace/ldd/custom_drivers/007_gpio_sysfs/gpio-sysfs.o;  echo; } > /home/furky/workspace/ldd/custom_drivers/007_gpio_sysfs/gpio-sysfs.mod

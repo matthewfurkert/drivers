@@ -1,0 +1,1 @@
+cmd_/home/furky/workspace/ldd/custom_drivers/004_pcd_platform_driver/modules.order := {   echo /home/furky/workspace/ldd/custom_drivers/004_pcd_platform_driver/pcd_device_setup.ko;   echo /home/furky/workspace/ldd/custom_drivers/004_pcd_platform_driver/pcd_platform_driver.ko; :; } | awk '!x[$$0]++' - > /home/furky/workspace/ldd/custom_drivers/004_pcd_platform_driver/modules.order

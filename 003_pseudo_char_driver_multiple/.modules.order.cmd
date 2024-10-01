@@ -1,0 +1,1 @@
+cmd_/home/furky/workspace/ldd/custom_drivers/003_pseudo_char_driver_multiple/modules.order := {   echo /home/furky/workspace/ldd/custom_drivers/003_pseudo_char_driver_multiple/pcd_n.ko; :; } | awk '!x[$$0]++' - > /home/furky/workspace/ldd/custom_drivers/003_pseudo_char_driver_multiple/modules.order

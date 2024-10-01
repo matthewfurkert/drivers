@@ -1,0 +1,1 @@
+cmd_/home/furky/workspace/ldd/custom_drivers/006_pcd_sysfs/pcd_sysfs.o := arm-linux-gnueabi-ld -EL -z noexecstack --no-warn-rwx-segments   -r -o /home/furky/workspace/ldd/custom_drivers/006_pcd_sysfs/pcd_sysfs.o /home/furky/workspace/ldd/custom_drivers/006_pcd_sysfs/pcd_platform_driver_dt_sysfs.o /home/furky/workspace/ldd/custom_drivers/006_pcd_sysfs/pcd_syscalls.o
