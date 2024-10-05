@@ -1,0 +1,1 @@
+cmd_/home/furky/workspace/ldd/custom_drivers/my_platform_driver/modules.order := {   echo /home/furky/workspace/ldd/custom_drivers/my_platform_driver/my_platform_driver.ko; :; } | awk '!x[$$0]++' - > /home/furky/workspace/ldd/custom_drivers/my_platform_driver/modules.order

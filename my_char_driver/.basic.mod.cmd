@@ -1,0 +1,1 @@
+cmd_/home/furky/workspace/ldd/custom_drivers/my_char_driver/basic.mod := { echo  /home/furky/workspace/ldd/custom_drivers/my_char_driver/basic.o;  echo; } > /home/furky/workspace/ldd/custom_drivers/my_char_driver/basic.mod

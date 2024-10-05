@@ -1,0 +1,2 @@
+/home/furky/workspace/ldd/custom_drivers/my_char_driver/basic.o
+
